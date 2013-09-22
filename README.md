@@ -18,7 +18,7 @@ Make a new directory and `cd` into it
 
 Run `yo uick-component`
 
-    $ mkdir uick-component
+    $ yo uick-component
 
 
 ## License
