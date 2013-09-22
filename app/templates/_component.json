@@ -1,0 +1,21 @@
+{
+  "name": "ui-<%= component_name %>",
+  "repo": "<%= repo_user %>/ui-<%= component_name %>",
+  "description": "<%= description %>",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "index.scss"
+  ],
+  "templates": [
+    "templates/template.html"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "ui-<%= component_name %>",
+  "description": "<%= description %>",
+  "version": "0.0.1",
+  "homepage": "http://github.com/<%= repo_user %>/ui-<%= component_name %>.git",
+  "author": {
+    "name": "<%= repo_user %>",
+    "email": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/<%= repo_user %>/ui-<%= component_name %>.git"
+  },
+  "bugs": {
+    "url": "https://github.com/<%= repo_user %>/ui-<%= component_name %>/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/<%= repo_user %>/ui-<%= component_name %>/blob/master/LICENSE"
+    }
+  ],
+  "dependencies": {
+    "uick-grunt": "*",
+    "component": "*",
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+
+  }
+}
